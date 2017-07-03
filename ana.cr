@@ -1,1 +1,1 @@
- 
+ # Program çalışma esnasında kullanılıyor
